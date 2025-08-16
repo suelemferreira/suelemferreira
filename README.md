@@ -28,14 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-91785d?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-91785d?style=for-the-badge&logo=github&logoColor=fff)
 
----
-
-## Projetos em destaque
-- ## Projeto Calculadora Glam
-
-Calculadora estilosa, tons laranja e glitter, inspirada na estética do álbum Showgirl da Taylor Swift ✨
-
-![Calculadora Glam](https://link-da-imagem-ou-gif)
 
 
 
