@@ -31,9 +31,13 @@
 ---
 
 ## Projetos em destaque
-- [**Projeto 1**](#) — Pequena descrição do projeto
-- [**Projeto 2**](#) — Pequena descrição do projeto
-- [**Projeto 3**](#) — Pequena descrição do projeto
+- ## Projeto Calculadora Glam
+
+Calculadora estilosa, tons laranja e glitter, inspirada na estética do álbum Showgirl da Taylor Swift ✨
+
+![Calculadora Glam](https://link-da-imagem-ou-gif)
+
+
 
 ---
 
